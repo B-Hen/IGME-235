@@ -95,4 +95,5 @@ Interest:
 ## Additional Specifics
 
 <!--- project.html --->
+# PROJECT
 The game will go here (must have the same look as the other pages)
